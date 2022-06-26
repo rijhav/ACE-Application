@@ -1,0 +1,28 @@
+1. Taking Your Turn as the First Player
+While each turn playing Uno progresses in relatively the same fashion, the first turn comes with a critical difference.
+At the start of your turn, you must look at the face-up card that is on the top of the discard pile.
+If this card is an action card, you must carry out the action.
+For example, if a Skip card is in play, your turn will be skipped.
+If a reverse card is in play, you will play your turn as usual, but then the game will begin to progress counter-clockwise instead of clockwise.
+So, the player to your right will be the second player (counter-clockwise), rather than the player to your left (clockwise).
+The only exception to this rule is if the starting card in the discard pile is a wild or a wild, draw four card.
+If the face-up card is a wild, you can choose the color the round begins with.
+If you choose a wild, draw four card, put the card back in the draw pile.
+Once you have reshuffled the deck, you may turn over a new card for the discard pile.
+
+2. Taking a Turn in General
+At the start of your turn, you must adhere to the top card in the discard pile. If this card is an action card, you must play out the action.
+Action cards aside, you must play a card that matches the card in the discard pile in either number, color, or action.
+Alternatively, you can play a Wild card to alter the color that is currently in play.
+You may only play one card each turn.
+If you do not have a card that can be played, you must draw a new card from the draw pile.
+You may play the card that you draw if that card can be played.
+If the card cannot be played, keep it and end your turn.
+
+3. Replenishing the Draw Pile
+Should you run out of cards in the draw pile during a round, you must shuffle the discard pile to begin anew.
+After you have shuffled, turn over the top card on the draw pile to create the new discard pile.
+The next player must abide by the new color or number to follow or adhere to any action card.
+
+4. Finishing a Round and Winning the Game
+Once a player has played all of their cards and has no cards remaining, the game round is completed.

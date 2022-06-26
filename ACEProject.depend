@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1654284224 source:d:\campus\2022-semester1&2\semester 1\comp 315\practicals\aceproject\main.cpp
+	"card.h"
+	"deck.h"
+	"player.h"
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+	<limits>
+	<time.h>
+	<locale>
+
+1652685743 source:d:\campus\2022-semester1&2\semester 1\comp 315\practicals\aceproject\src\card.cpp
+	"card.h"
+
+1652688034 d:\campus\2022-semester1&2\semester 1\comp 315\practicals\aceproject\include\card.h
+	<ostream>
+
+1652861133 source:d:\campus\2022-semester1&2\semester 1\comp 315\practicals\aceproject\src\player.cpp
+	"card.h"
+	"player.h"
+	<iostream>
+
+1652861133 d:\campus\2022-semester1&2\semester 1\comp 315\practicals\aceproject\include\player.h
+	"card.h"
+
+1652689665 source:d:\campus\2022-semester1&2\semester 1\comp 315\practicals\aceproject\src\deck.cpp
+	"deck.h"
+	"card.h"
+	<iostream>
+	<cstdlib>
+	<time.h>
+
+1652687899 d:\campus\2022-semester1&2\semester 1\comp 315\practicals\aceproject\include\deck.h
+	"card.h"
+
+1652776401 source:d:\campus\2022-semester1&2\semester 1\comp 315\practicals\aceproject\src\test_class.cpp
+	"card.h"
+	"deck.h"
+	"player.h"
+	<iostream>
+	<iomanip>
+	<ctime>
+
